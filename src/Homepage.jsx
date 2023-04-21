@@ -2,8 +2,8 @@ import React from "react";
 
 function Homepage(props) {
   return (
-    <div className="">
-      <div className="mt-2 flex justify-end md:w-2/4 md:justify-between md:float-right">
+    <>
+      <div className="mt-2 flex self-end md:w-2/4 md:justify-between md:float-right">
         <div
           className={`border border-zinc-200 dark:border-none dark:bg-zinc-800 rounded-3xl py-2 px-6`}
         >
@@ -58,14 +58,14 @@ function Homepage(props) {
       </div>
       <div className="md:grid md:grid-cols-2 md:justify-items-center lg:flex justify-center mt-16">
         <img
-          src="./images/uduak-smiles.png"
+          src="./images/uduak-smiles.jpg"
           alt="personal.png"
-          className="w-full rounded-2xl mb-10 md:w-72 md:mr-0 lg:w-48 xl:w-64 lg:mr-8 lg:rotate-3"
+          className="w-full rounded-2xl mb-10 md:w-72 md:mr-0 lg:w-48 xl:w-72 lg:mr-8 lg:rotate-3"
         />
         <img
           src="./images/scores.png"
           alt="personal.png"
-          className="w-full rounded-2xl border mb-10 md:w-72 md:mr-0 lg:w-48 xl:w-64 lg:mr-8 lg:-rotate-3"
+          className="w-full rounded-2xl border mb-10 md:w-72 md:mr-0 lg:w-48 xl:w-72 lg:mr-8 lg:-rotate-3"
         />
 
         <img
@@ -76,12 +76,12 @@ function Homepage(props) {
         <img
           src="./images/Wambi-home.png"
           alt="personal.png"
-          className="w-full rounded-2xl mb-10 md:w-72 md:mr-0 lg:w-48 xl:w-64 lg:mr-8 lg:rotate-3"
+          className="w-full rounded-2xl mb-10 md:w-72 md:mr-0 lg:w-48 xl:w-72 lg:mr-8 lg:rotate-3"
         />
         <img
-          src="./images/solo-leveling.png"
+          src="./images/solo-leveling.jpg"
           alt="personal.png"
-          className="w-full rounded-2xl md:w-72 md:mr-0 lg:w-48 xl:w-64 xl:h-96 lg:h-96 lg:mr-8 lg:-rotate-3"
+          className="w-full rounded-2xl md:w-72 md:mr-0 lg:w-48 xl:w-72 xl:h-96 lg:h-96 lg:mr-8 lg:-rotate-3"
         />
       </div>
       <div className="xl:flex justify-between mt-20">
@@ -138,7 +138,7 @@ function Homepage(props) {
           </div>
         </div>
       </div>
-    </div>
+    </>
   );
 }
 

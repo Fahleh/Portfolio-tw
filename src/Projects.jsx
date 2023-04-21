@@ -25,8 +25,8 @@ function Projects(props) {
   });
 
   return (
-    <>
-      <div className="flex justify-between items-center h-full">
+    <div className="">
+      <div className="flex justify-between items-center">
         <div className="cursor-pointer">
           <a href="/">
             <img
@@ -63,7 +63,7 @@ function Projects(props) {
         </p>
       </div>
       <div className="md:flex mt-12">{cardElements}</div>
-    </>
+    </div>
   );
 }
 export default Projects;
