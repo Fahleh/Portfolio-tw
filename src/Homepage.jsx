@@ -65,13 +65,13 @@ function Homepage(props) {
         <img
           src="./images/scores.png"
           alt="personal.png"
-          className="w-full rounded-2xl mb-10 md:w-72 md:mr-0 lg:w-48 xl:w-64 lg:mr-8 lg:-rotate-3"
+          className="w-full rounded-2xl border mb-10 md:w-72 md:mr-0 lg:w-48 xl:w-64 lg:mr-8 lg:-rotate-3"
         />
 
         <img
           src="./images/Mobile-home.png"
           alt="personal.png"
-          className="w-full rounded-2xl mb-10 md:w-72 md:mr-0 lg:w-48 xl:h-96 lg:mr-8 lg:rotate-3"
+          className="w-full rounded-2xl border mb-10 md:w-72 md:mr-0 lg:w-48 xl:h-96 lg:mr-8 lg:rotate-3"
         />
         <img
           src="./images/Wambi-home.png"
