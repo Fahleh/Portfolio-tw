@@ -3,6 +3,7 @@ import React from "react";
 function Homepage(props) {
   return (
     <>
+      {/* Navbar */}
       <div className="mt-2 flex self-end md:w-2/4 md:justify-between md:float-right">
         <div
           className={`border border-zinc-200 dark:border-none dark:bg-zinc-800 rounded-3xl py-2 px-6`}
@@ -22,6 +23,8 @@ function Homepage(props) {
           />
         </div>
       </div>
+
+      {/* Home button */}
       <div className="mt-16 md:mt-28">
         <a href="/">
           <img
@@ -31,6 +34,8 @@ function Homepage(props) {
           />
         </a>
       </div>
+
+      {/* Top content */}
       <div className="mt-8 lg:w-2/3">
         <h1 className="text-5xl">Front-End Developer.</h1>
         <p className="mt-6">
@@ -56,6 +61,8 @@ function Homepage(props) {
           </a>
         </div>
       </div>
+
+      {/* Image gallery */}
       <div className="md:grid md:grid-cols-2 md:justify-items-center lg:flex justify-center mt-16">
         <img
           src="./images/uduak-smiles.jpg"
@@ -84,6 +91,8 @@ function Homepage(props) {
           className="w-full rounded-2xl md:w-72 md:mr-0 lg:w-48 xl:w-72 xl:h-96 lg:h-96 lg:mr-8 lg:-rotate-3"
         />
       </div>
+
+      {/* Bottom content */}
       <div className="xl:flex justify-between mt-20">
         <div className="xl:w-6/12">
           <p>
@@ -101,6 +110,8 @@ function Homepage(props) {
             basketball, working-out, and traveling.
           </p>
         </div>
+
+        {/* Work history */}
         <div
           className={`mt-10 border border-zinc-100 dark:border-zinc-800 rounded-xl p-4 xl:w-5/12`}
         >

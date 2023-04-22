@@ -2,6 +2,7 @@ import React from "react";
 import data from "./data.jsx";
 
 function Projects(props) {
+  //Function for displaying card elements
   const cardElements = data.map((item) => {
     return (
       <div
@@ -25,6 +26,7 @@ function Projects(props) {
   });
 
   return (
+    //Navbar elements
     <div className="">
       <div className="flex justify-between items-center">
         <div className="cursor-pointer">
@@ -54,6 +56,8 @@ function Projects(props) {
           />
         </div>
       </div>
+
+      {/* Top content */}
       <div className="mt-12 md:mt-36 lg:w-2/3">
         <h1 className="text-5xl">Front-End Developer.</h1>
         <p className="mt-6">
@@ -62,6 +66,8 @@ function Projects(props) {
           the more significant ones.
         </p>
       </div>
+
+      {/* Card elements */}
       <div className="md:flex mt-12">{cardElements}</div>
     </div>
   );
