@@ -7,7 +7,15 @@ const cards = [
     title: "Quizzical Trivia",
     desc: `A web application that tests users knowledge in a variety of subjects through trivia questions.`,
     url: "https://quiz-treevia.netlify.app/",
-    link: "quiz-treevia.netlify.app/",
+    link: "quiz-treevia.netlify.app",
+  },
+  {
+    id: nanoid(),
+    image: "/images/legacy-logo.png",
+    title: "Wordpress Site",
+    desc: `A website built for an interior design firm using wordpress. It features generic content and unsplash images.`,
+    url: "https://mytestsite.com.ng/",
+    link: "Legacyinteriors.com",
   },
   {
     id: nanoid(),
@@ -15,7 +23,7 @@ const cards = [
     title: "Wambi",
     desc: "A social media platform that provides a seamless mix of social & commercial networking",
     url: "https://github.com/Fahleh/Wambi-beta.git",
-    link: "github.com/Fahleh/Wambi-beta",
+    link: "github.com/Fahleh",
   },
   {
     id: nanoid(),

@@ -14,7 +14,7 @@ function Projects(props) {
             <img
               src={item.image}
               alt="logo.png"
-              className={`h-10  border rounded-full border-zinc-100 dark:border-zinc-800 bg-zinc-50 dark:bg-zinc-800`}
+              className={`w-10 h-10  border rounded-full border-zinc-100 dark:border-zinc-800 bg-zinc-50 dark:bg-zinc-800`}
             />
             <h2 className="mt-6 mb-6">{item.title}</h2>
             <p>{item.desc}</p>
