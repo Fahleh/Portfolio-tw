@@ -18,8 +18,7 @@
 <img src="https://user-images.githubusercontent.com/49387957/235292421-e3c90de3-a087-46a9-a4c7-92a4be5e17ab.png" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/49387957/235291676-d87f4c9c-e7dc-47fa-ae51-655e20f7ca10.png" width="45">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/49387957/235291918-17c45a6b-8d7d-424d-bacf-f86a4d4f8c40.png" width="35">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fahleh/Portfolio-tw/assets/49387957/2b4a2c4f-67d5-4e8f-989a-1aa3b5a1da70" width="35">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/49387957/235292008-07f4e831-1d61-495e-8fd8-3047e4c195a5.png" width="40">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/49387957/5ab38474-2889-4064-90cc-667c162e13c8.png" width="40">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/49387957/235293469-74bb1515-127f-4bb8-bd74-e88d8b95e709.png" width="35">
-https://github.com/Fahleh/Portfolio-tw/assets/49387957/5ab38474-2889-4064-90cc-667c162e13c8
 
