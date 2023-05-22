@@ -68,7 +68,9 @@ function Projects(props) {
       </div>
 
       {/* Card elements */}
-      <div className="md:flex mt-12">{cardElements}</div>
+      <div className="mt-24 md:flex md:justify-between md:w-full md:flex-wrap ">
+        {cardElements}
+      </div>
     </div>
   );
 }
