@@ -22,8 +22,8 @@ const cards = [
     image: "/images/wambi.png",
     title: "Wambi",
     desc: "A social media platform that provides a seamless mix of social & commercial networking",
-    url: "https://github.com/Fahleh/Wambi-beta.git",
-    link: "github.com/Fahleh",
+    url: "https://www.wambiconnect.com",
+    link: "wambiconnect.com",
   },
   {
     id: nanoid(),

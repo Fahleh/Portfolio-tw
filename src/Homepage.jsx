@@ -76,7 +76,7 @@ function Homepage(props) {
         />
 
         <img
-          src="./images/Mobile-home1.png"
+          src="./images/Mobile-home.png"
           alt="personal.png"
           className="w-full rounded-2xl border mb-10 md:w-72 md:mr-0 lg:w-48 xl:h-96 lg:mr-8 lg:rotate-3"
         />
